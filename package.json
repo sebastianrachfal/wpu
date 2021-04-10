@@ -1,0 +1,12 @@
+{
+  "name": "wpu",
+  "version": "1.0.0",
+  "description": "Cli for managing project components and tasks.",
+  "main": "index.js",
+  "author": "woody",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0"
+  }
+}
